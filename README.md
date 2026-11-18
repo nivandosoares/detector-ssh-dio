@@ -1,5 +1,13 @@
 # Detecção de tentativas repetidas de autenticação SSH
 
+Identifica sequências de falhas de autenticação e sinaliza sucessos após o limiar, a partir de um CSV sintético.
+
+**Arquivos principais**
+
+- [detectar.py](<detectar.py>)
+- [eventos.csv](<eventos.csv>)
+- [esperado.txt](<esperado.txt>)
+
 Este exercício defensivo processa um CSV com horários ISO 8601 em UTC, conta, origem e resultado. O cenário usa contas fictícias e endereços reservados para documentação.
 
 Execute com Python 3.10 ou posterior.
