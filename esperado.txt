@@ -1,0 +1,2 @@
+2026-11-18T14:02:20+00:00 | bruno | 192.0.2.20 | falhas repetidas
+2026-11-18T14:02:40+00:00 | bruno | 192.0.2.20 | sucesso após falhas repetidas
